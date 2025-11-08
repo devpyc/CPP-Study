@@ -1,4 +1,4 @@
-# C++ Study
+# 2025 C++ 스터디
 | 주차  | 내용 |
 | ---- | ----|
 | 1주차 | [C++의 기본 구조와 자료형](https://github.com/devpyc/CPP-Study/tree/main/1%EC%A3%BC%EC%B0%A8) |
