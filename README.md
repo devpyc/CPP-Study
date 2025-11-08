@@ -1,2 +1,16 @@
 # C++ Study
-1주차 - [C++의 기본 구조와 자료형](https://github.com/devpyc/CPP-Study/tree/main/1%EC%A3%BC%EC%B0%A8)
+| 주차  | 내용 |
+| ---- | ----|
+| 1주차 | [C++의 기본 구조와 자료형](https://github.com/devpyc/CPP-Study/tree/main/1%EC%A3%BC%EC%B0%A8) |
+| 2주차 |  |
+| 3주차 |  |
+| 4주차 |  |
+| 5주차 |  |
+| 6주차 |  |
+| 7주차 |  |
+| 8주차 |  |
+| 9주차 |  |
+| 10주차 |  |
+| 11주차 |  |
+| 12주차 |  |
+
